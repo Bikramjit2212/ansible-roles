@@ -1,0 +1,4 @@
+---
+# defaults file for command
+nginx_title: "Welcome to my Website"
+nginx_message: "Deployed using Ansible Role"

@@ -1,0 +1,6 @@
+---
+# handlers file for command
+- name: restart nginx
+  service:
+    name: nginx
+    state: restarted
